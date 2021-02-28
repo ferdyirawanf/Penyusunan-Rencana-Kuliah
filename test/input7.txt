@@ -1,0 +1,9 @@
+MS, A.
+SS, MS, A.
+E.
+A.
+HI, MS, SS, E, A.
+ETH, E, SS, MS, A, HI.
+IS, E, SS, A, HI.
+P, HI, MS, SS, E.
+AAP, ETH, IS, HI, P.
